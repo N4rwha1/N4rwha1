@@ -6,4 +6,4 @@
 ##### 📫 I'm active on some social platforms sometimes,My tiwtter/x @CoaledIce
 ##### 👋 My Blog: https://coaledice.github.io Welcome to exchange your blog with me~
 
-[![My Skills](https://skillicons.dev/icons?i=html,python,c,cpp,linux,debian,kali,django,docker,github,idea,pycharm,sublime,vscode,npm,php,linkedin,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,python,c,cpp,js,linux,debian,kali,django,docker,github,idea,pycharm,sublime,vscode,npm,php,linkedin,twitter)](https://skillicons.dev)
