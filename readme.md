@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNextK1ng)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### 👋 Hi, My ID is TheNextKing, A 15 year-old student at Dongguan No.13 High School 
-##### 💻 CyberSecurity Researcher at [SecureNexusLab](https://securenexuslab.github.io)
+##### 💻 CyberSecurity Researcher at [SecureNexusLab](https://github.com/SecureNexusLab)
 ##### 🚩 CTF Player and Founder of [InkSec](https://github.com/InkSecurity) Team
 ##### 🌱 I'm currently learning Binary Security,Reverse Engine,LLM Security
 ##### 📫 I'm active on some social platforms sometimes,My tiwtter/x @CoaledIce
