@@ -1,7 +1,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4gisk)](https://github.com/anuraghazra/github-readme-stats)
 
-##### 👋 Hi, My ID is TheNextKing, A 15 year-old student at Dongguan No.13 High School 
+##### 👋 Hi, My ID is M4gisk(You also can call me Hailin~), A 15 year-old student at Dongguan No.13 High School 
 ##### 💻 CyberSecurity Researcher at [SecureNexusLab](https://github.com/SecureNexusLab)
 ##### 🚩 CTF Player and Founder of [InkSec](https://github.com/InkSecurity) Team
 ##### 🌱 I'm currently learning Binary Security,Reverse Engine,LLM Security
