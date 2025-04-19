@@ -2,4 +2,4 @@ Security Research Enthusiast at [SecureNexusLab](https://github.com/SecureNexusL
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solkatt-cn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=html,python,c,cpp,js,linux,debian,kali,ubuntu,django,docker,mysql,obsidian,github,arduino,idea,pycharm,sublime,vscode,visualstudio,npm,php,ps,linkedin,twitter,gmail,Drive,)](
+[![My Skills](https://skillicons.dev/icons?i=html,python,c,cpp,js,linux,debian,kali,ubuntu,django,docker,mysql,obsidian,github,arduino,idea,pycharm,sublime,vscode,visualstudio,npm,php,ps,linkedin,twitter,gmail,Drive,)]
